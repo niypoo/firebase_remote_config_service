@@ -3,9 +3,5 @@
 A new Flutter module project.
 
 ## Getting Started
+the "firebase_remote_config_service" service that designed by flutter(dart) depends on [firebase_remote_config_service] for manage all firebase remote config functionalities.
 
-For help getting started with Flutter development, view the online
-[documentation](https://flutter.dev/).
-
-For instructions integrating Flutter modules to your existing applications,
-see the [add-to-app documentation](https://flutter.dev/docs/development/add-to-app).
