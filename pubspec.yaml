@@ -11,7 +11,7 @@ dependencies:
     sdk: flutter
 
   get: ^4.6.6
-  firebase_remote_config: ^5.1.0
+  firebase_remote_config: ^4.4.5
 
 dev_dependencies:
   flutter_test:
